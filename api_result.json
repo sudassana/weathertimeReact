@@ -1,0 +1,40 @@
+{
+    "location": {
+        "name": "Sydney",
+        "region": "New South Wales",
+        "country": "Australia",
+        "lat": -33.88,
+        "lon": 151.22,
+        "tz_id": "Australia/Sydney",
+        "localtime_epoch": 1694326826,
+        "localtime": "2023-09-10 16:20"
+    },
+    "current": {
+        "last_updated_epoch": 1694326500,
+        "last_updated": "2023-09-10 16:15",
+        "temp_c": 16,
+        "temp_f": 60.8,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 11.9,
+        "wind_kph": 19.1,
+        "wind_degree": 90,
+        "wind_dir": "E",
+        "pressure_mb": 1028,
+        "pressure_in": 30.36,
+        "precip_mm": 0,
+        "precip_in": 0,
+        "humidity": 48,
+        "cloud": 0,
+        "feelslike_c": 16,
+        "feelslike_f": 60.8,
+        "vis_km": 10,
+        "vis_miles": 6,
+        "uv": 5,
+        "gust_mph": 12.3,
+        "gust_kph": 19.8
+    }}
